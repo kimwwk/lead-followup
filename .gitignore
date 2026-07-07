@@ -1,0 +1,6 @@
+# your credentials — never committed
+config/ghl.env
+
+__pycache__/
+*.pyc
+.DS_Store
